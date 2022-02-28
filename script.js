@@ -87,6 +87,5 @@ function calculateResult(){
                 break;  
        }
     }
-    outputField.innerText = result.toString();
-    // operator = null;  
+    outputField.innerText = result.toString(); 
 }
